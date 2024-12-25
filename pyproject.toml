@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "reqres-api-robot"
+version = "0.1.0"
+description = ""
+authors = ["crrmail <preeyamon.tester@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.10.4"
+robotframework = "^7.1.1"
+robotframework-requests = "^0.9.7"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
