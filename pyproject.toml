@@ -6,7 +6,7 @@ authors = ["crrmail <preeyamon.tester@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "3.10.4"
+python = "^3.10.4"
 robotframework = "^7.1.1"
 robotframework-requests = "^0.9.7"
 
